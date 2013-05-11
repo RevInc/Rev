@@ -1,4 +1,0 @@
-Rev
-===
-
-Rev's RevFramework
